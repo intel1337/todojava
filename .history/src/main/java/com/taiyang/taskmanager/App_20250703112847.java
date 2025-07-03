@@ -1,0 +1,13 @@
+package com.taiyang.taskmanager;
+
+import java.util.ArrayList;
+import com.taiyang.taskmanager.Model.Task;
+
+blic class App 
+{
+    public static void main( String[] args )
+    {
+        ArrayList<Task> database = new ArrayList<Task>();
+        System.out.println( "Welcome to the todo List" );
+    }
+}
